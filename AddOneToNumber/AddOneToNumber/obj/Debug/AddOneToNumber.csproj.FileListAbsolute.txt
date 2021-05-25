@@ -1,0 +1,6 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\bin\Debug\AddOneToNumber.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\bin\Debug\AddOneToNumber.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\bin\Debug\AddOneToNumber.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\obj\Debug\AddOneToNumber.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\obj\Debug\AddOneToNumber.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\AddOneToNumber\AddOneToNumber\obj\Debug\AddOneToNumber.pdb

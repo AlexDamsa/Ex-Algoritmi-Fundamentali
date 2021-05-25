@@ -1,0 +1,7 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\bin\Debug\SpiralOrderMatrix2.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\bin\Debug\SpiralOrderMatrix2.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\bin\Debug\SpiralOrderMatrix2.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\obj\Debug\SpiralOrderMatrix2.csprojAssemblyReference.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\obj\Debug\SpiralOrderMatrix2.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\obj\Debug\SpiralOrderMatrix2.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SpiralOrderMatrix2\SpiralOrderMatrix2\obj\Debug\SpiralOrderMatrix2.pdb

@@ -1,0 +1,7 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

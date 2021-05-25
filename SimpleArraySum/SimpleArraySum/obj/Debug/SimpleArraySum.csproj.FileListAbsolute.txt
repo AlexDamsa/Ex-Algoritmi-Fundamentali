@@ -1,0 +1,6 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.pdb

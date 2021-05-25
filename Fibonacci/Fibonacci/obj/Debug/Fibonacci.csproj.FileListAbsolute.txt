@@ -1,0 +1,6 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

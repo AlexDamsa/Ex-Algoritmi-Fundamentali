@@ -1,0 +1,6 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\bin\Debug\MaximumAbsoluteDifference.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\bin\Debug\MaximumAbsoluteDifference.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\bin\Debug\MaximumAbsoluteDifference.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\obj\Debug\MaximumAbsoluteDifference.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\obj\Debug\MaximumAbsoluteDifference.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\MaximumAbsoluteDifference\MaximumAbsoluteDifference\obj\Debug\MaximumAbsoluteDifference.pdb

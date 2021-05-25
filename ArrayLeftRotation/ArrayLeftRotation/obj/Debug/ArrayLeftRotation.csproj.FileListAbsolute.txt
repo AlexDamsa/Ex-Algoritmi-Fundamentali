@@ -1,0 +1,6 @@
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe.config
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.pdb
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csproj.CoreCompileInputs.cache
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.exe
+D:\Alex\Facultate\Ex Algoritmi Fundamentali\ArrayLeftRotation\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.pdb
